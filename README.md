@@ -68,3 +68,6 @@ Esto levantará el contenedor y estará listo para usarse. Mantén esta terminal
 ```
 > docker compose down
 ```
+
+### 5. localhost
+Abrir en el navegador `localhost:3000/01.php`
