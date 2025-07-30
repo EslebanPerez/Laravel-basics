@@ -1,0 +1,6 @@
+services:
+  laravelintroduccionpooinicio:
+    image: laravelintroduccionpooinicio
+    build:
+      context: .
+      dockerfile: ./Dockerfile
